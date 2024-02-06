@@ -10,4 +10,8 @@
 
 
 ## Link to google docs
-[Test plan](https://docs.google.com/document/d/120aCcGoJaSHojNDuaaBXzmKvk0BQqSXqpMS31AZuynM/edit?usp=sharing)
+
+[План тестирования](https://docs.google.com/document/d/120aCcGoJaSHojNDuaaBXzmKvk0BQqSXqpMS31AZuynM/edit?usp=drive_link)
+
+[Проектная презентация](https://docs.google.com/presentation/d/1Amd4h78evoxxb9jA3L3tCfPyBz5W3KRH0ri9DUIub-M/edit?usp=drive_link)
+
